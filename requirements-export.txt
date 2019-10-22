@@ -15,7 +15,7 @@ djangocms-style==2.0.2
 djangocms-video==2.0.4
 djangocms-column==1.7.0
 djangocms-googlemap==1.1.1
-Pillow==5.0.0
+Pillow==6.2.0
 
 asn1crypto==0.24.0
 certifi==2018.1.18
